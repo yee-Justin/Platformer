@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/visualstudio,windows,c++
-# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudio,windows,c++
+# Created by https://www.toptal.com/developers/gitignore/api/c++,visualstudio,windows
+# Edit at https://www.toptal.com/developers/gitignore?templates=c++,visualstudio,windows
 
 ### C++ ###
 # Prerequisites
@@ -455,4 +455,4 @@ FodyWeavers.xsd
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
 
-# End of https://www.toptal.com/developers/gitignore/api/visualstudio,windows,c++
+# End of https://www.toptal.com/developers/gitignore/api/c++,visualstudio,windows
